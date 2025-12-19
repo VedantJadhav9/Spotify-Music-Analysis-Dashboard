@@ -1,62 +1,85 @@
-# Spotify-Music-Analysis-Dashboard
-Interactive Power BI dashboard analyzing 950+ Spotify tracks and 489B+ streams using DAX, Power Query, and advanced data visualization
+# 🎵 Spotify Music Analysis Dashboard (Power BI)
 
-📌# Project Overview
-This project presents an interactive Spotify Music Analysis Dashboard built using Power BI, aimed at uncovering insights from large-scale music streaming data. The dashboard analyzes track popularity, streaming trends, artist performance, and audio characteristics to support data-driven decision-making in the music industry.The project demonstrates end-to-end BI skills including data modeling, DAX calculations, and interactive dashboard design.
+## Project Overview
+This project showcases an interactive Power BI dashboard built to analyze large-scale Spotify music streaming data. The dashboard uncovers insights related to track performance, artist popularity, streaming trends, and audio characteristics to support data-driven decision-making.
 
-🧩 Problem Statement
-Music streaming platforms generate massive volumes of listening data, but raw streaming numbers alone do not reveal meaningful insights about listener behavior, track performance, or artist popularity. Stakeholders such as record labels, marketing teams, and platform analysts need a centralized, interactive system to analyze streaming trends, identify high-performing tracks, and understand how audio characteristics influence song success.The challenge is to transform large-scale Spotify streaming data into actionable insights that support strategic decisions related to promotion, content curation, and audience engagement.
+---
 
-🎯 Business Objectives
-The primary business objectives of this project are:
-Analyze overall streaming performance across tracks and artists
-Identify top-performing tracks and artists based on total streams
-Understand time-based streaming trends (daily, monthly, release-year patterns)
-Measure the contribution percentage of individual tracks to total streams
-Analyze the impact of audio features (energy, danceability, acousticness, etc.) on popularity
-Enable stakeholders to make data-driven marketing and promotion decisions
-Provide an interactive dashboard that allows dynamic exploration using filters and slicers
+## Problem Statement
+Music streaming platforms generate massive volumes of data, but raw metrics alone do not provide actionable insights. There is a need for a centralized analytics solution that transforms streaming data into meaningful information to understand listener behavior, identify top-performing tracks, and evaluate how audio features influence song popularity.
 
-📊 Dataset Details
-Total Records: 950+ tracks
-Total Streams Analyzed: 489+ Billion
-Key Attributes: Track name, artist, release date, streams, popularity, acousticness, energy, danceability, speechiness, liveness, instrumentalness
-Granularity: Track-level data
+---
 
-🛠 Tools & Technologies
-Power BI
-DAX (Data Analysis Expressions)
-Advanced Excel (data preprocessing)
-Power Query (data cleaning & transformation)
+## Business Objectives
+- Analyze overall streaming performance across tracks and artists  
+- Identify top-performing tracks and artists based on total streams  
+- Understand daily, monthly, and release-year streaming trends  
+- Measure percentage contribution of individual tracks to total streams  
+- Analyze the impact of audio features such as energy, danceability, and acousticness  
+- Enable data-driven marketing and promotion strategies  
 
-🔑 Key Features & KPIs
-Total Streams KPI (489B+)
-Total Tracks Analyzed (952)
-Top Streamed Track & Artist Identification
-Monthly & Daily Streaming Trends
-Top 5 Most Streamed Tracks Visualization
-Audio Feature Analysis (Energy, Danceability, Acousticness, etc.)
+---
 
-📈 DAX Measures Implemented
-Total Streams
-Average Streams per Track
-Track Contribution Percentage (%)
-Dynamic Ranking of Tracks & Artists
-Filter-responsive KPIs using slicers
-All measures dynamically update based on Track and Artist selections.
+## Dataset Overview
+- Total Tracks Analyzed: 950+  
+- Total Streams: 489+ Billion  
+- Data Granularity: Track-level  
+- Key Attributes: Track name, artist, release date, streams, popularity, audio features  
 
-🔍 Insights Generated
-Identified that a small percentage of tracks contribute ~60% of total streams, indicating a strong popularity concentration.
-Observed higher streaming activity on weekends, especially Fridays and Saturdays.
-Found that high-energy and high-danceability tracks dominate top streaming positions.
-Detected seasonal and release-date-driven spikes in streaming behavior.
+---
 
-🎯 Business Use Case
-This dashboard can help:
-Music streaming platforms analyze listener behavior
-Record labels identify high-performing tracks and artists
-Marketing teams plan promotional strategies based on popularity trends
-Analysts understand the impact of audio features on song success
+## Tools & Technologies
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Power Query  
+- Advanced Excel  
 
-📷 Dashboard Preview
-(Add a screenshot of your Power BI dashboard here — very important for recruiters)
+---
+
+## Key KPIs & Features
+- Total Streams  
+- Total Tracks  
+- Top Streamed Track & Artist  
+- Monthly and Daily Streaming Trends  
+- Top 5 Most Streamed Tracks  
+- Audio Feature Analysis  
+
+---
+
+## DAX Measures Implemented
+- Total Streams  
+- Average Streams per Track  
+- Track Contribution Percentage (%)  
+- Dynamic Ranking of Tracks and Artists  
+- Filter-responsive KPIs using slicers  
+
+---
+
+## Key Insights
+- Approximately 60% of total streams are generated by a small percentage of tracks  
+- Streaming activity peaks on weekends, especially Fridays and Saturdays  
+- High-energy and high-danceability tracks dominate top streaming positions  
+
+---
+
+## Business Value Delivered
+- Supports marketing teams in prioritizing high-performing tracks and artists  
+- Enables playlist curation and promotional planning  
+- Improves visibility into listener behavior and content performance  
+
+---
+
+## Dashboard Preview
+![Spotify Music Analysis Dashboard](dashboard.png)
+
+---
+
+## How to Use
+1. Download the `.pbix` file from this repository  
+2. Open it using Power BI Desktop  
+3. Interact with filters and slicers to explore insights  
+
+---
+
+## Conclusion
+This project demonstrates practical Power BI and DAX skills, along with the ability to convert raw data into meaningful business insights.
