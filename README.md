@@ -1,7 +1,7 @@
 # Spotify-Music-Analysis-Dashboard
 Interactive Power BI dashboard analyzing 950+ Spotify tracks and 489B+ streams using DAX, Power Query, and advanced data visualization
 
-📌 Project Overview
+📌# Project Overview
 This project presents an interactive Spotify Music Analysis Dashboard built using Power BI, aimed at uncovering insights from large-scale music streaming data. The dashboard analyzes track popularity, streaming trends, artist performance, and audio characteristics to support data-driven decision-making in the music industry.The project demonstrates end-to-end BI skills including data modeling, DAX calculations, and interactive dashboard design.
 
 🧩 Problem Statement
