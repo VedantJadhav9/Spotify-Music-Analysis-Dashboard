@@ -70,7 +70,7 @@ Music streaming platforms generate massive volumes of data, but raw metrics alon
 ---
 
 ## Dashboard Preview
-![Spotify Music Analysis Dashboard](dashboard.png)
+![Spotify Music Analysis Dashboard](https://github.com/VedantJadhav9/Spotify-Music-Analysis-Dashboard/blob/main/Dashboard%20Spotify.png)
 
 ---
 
