@@ -74,12 +74,5 @@ Music streaming platforms generate massive volumes of data, but raw metrics alon
 
 ---
 
-## How to Use
-1. Download the `.pbix` file from this repository  
-2. Open it using Power BI Desktop  
-3. Interact with filters and slicers to explore insights  
-
----
-
 ## Conclusion
 This project demonstrates practical Power BI and DAX skills, along with the ability to convert raw data into meaningful business insights.
